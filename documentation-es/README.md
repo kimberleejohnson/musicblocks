@@ -182,10 +182,10 @@ inside a note in order to create sound-sync animations.
 A quick tour of selected blocks
 -------------------------------
 
-![alt tag](https://rawgithub.com/sugarlabs/musicblocks/master/documentation-es/settimbre_block.svg "Set timbre block")
+![alt tag](https://rawgithub.com/sugarlabs/musicblocks/master/documentation-es/settimbre_block.svg "Set instrument block")
 
-The *Set timbre* block, found on the *Tone* palette, lets you choose a
-timbre for a note. In the above example, a guitar model is used to
+The *Set instrument* block, found on the *Tone* palette, lets you choose an
+instrument for a note. In the above example, a guitar model is used to
 make any notes contained within the block's clamp will sound as if
 they are being played on a guitar.
 
